@@ -18,6 +18,7 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par la mécatronique, la ro
 
 ## Projets
 
+
 ### Système de Vision Virtuelle pour les Malvoyants (2022) 
 
 Rendu du prototype CAD sous fusion 360 et prototype imprimé (SLA, FDM), Usiné (tour, CNC).
