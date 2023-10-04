@@ -18,14 +18,17 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par la mécatronique, la ro
 
 ## Projets
 
-### Système de Vision Virtuelle pour les Malvoyants (2022)
-[Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/TUDAYFR/Vision-Impaired-Devices))
+### Système de Vision Virtuelle pour les Malvoyants (2022) 
+
 Rendu du prototype CAD sous fusion 360 et prototype imprimé (SLA, FDM), Usiné (tour, CNC).
+
 ![image](https://user-images.githubusercontent.com/104011562/233788835-853165fa-80de-4ed4-a08e-cf7ed33c525e.png)
 
 - Conception et réalisation d'un système de vision virtuelle
 - Vérification de la réalisation des objectifs
 - Compétences mises en œuvre : Impression 3D (SLA, FDM), étude mécanique, électronique (Conception de PCB avec EAGLE)
+
+**Pour plus de detail sur ce [projet](https://github.com/TUDAYFR/Vision-Impaired-Devices)**
 
 ### Volant à Retour de Force pour SimRacing (2023)
 
