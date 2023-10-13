@@ -39,14 +39,7 @@ Images de la basse du volant
 
 ![Eclatee_Treated (2)](https://github.com/TUDAYFR/myprojects/assets/104011562/a87de002-545a-4b5c-b5fa-ca81d68f6692)
 
-![IMG_3379](https://github.com/TUDAYFR/myprojects/assets/104011562/f20ac215-e842-4341-88f0-bd456b67afd7)
-
-<table>
-  <tr>
-    <td><img src="[lien_vers_image1.jpg](https://github.com/TUDAYFR/myprojects/assets/104011562/f20ac215-e842-4341-88f0-bd456b67afd7)" alt="Image 1"></td>
-    <td><img src="[lien_vers_image2.jpg](https://github.com/TUDAYFR/myprojects/assets/104011562/f20ac215-e842-4341-88f0-bd456b67afd7)" alt="Image 2"></td>
-  </tr>
-</table>
+![SideBySidev2](https://github.com/TUDAYFR/myprojects/assets/104011562/1a00fee0-15a7-4e21-9739-412d864906a4)
 
 - Conception des pièces
 - Impression 3D
