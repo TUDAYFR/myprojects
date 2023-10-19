@@ -1,6 +1,6 @@
 # Présentation
 
-Bienvenue sur mon profil GitHub ! Je suis passionné par la mécatronique, la robotique et tout ce qui touche à la conception et à la création. Voici un aperçu de mon parcours académique et de mes projets récents.
+Bienvenue ! Je suis passionné par la mécatronique, la robotique et tout ce qui touche à la conception et à la création. Voici un aperçu de mon parcours académique et de mes projets récents.
 
 ## Éducation
 
