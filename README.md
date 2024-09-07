@@ -27,6 +27,8 @@ Bienvenue ! Je suis passionné par la mécatronique, la robotique et tout ce qui
 
 ### Teélécomande avec retour haptic par commande FOC (2024)
 
+https://www.tiktok.com/@tuday.e/video/7330250666809625888?_r=1&_t=8pWzxgU6bFx
+
 ### Volant à Retour de Force pour SimRacing (2023)
 
 Images de la basse du volant 
