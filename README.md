@@ -28,7 +28,7 @@ Bienvenue ! Je suis passionné par la mécatronique, la robotique et tout ce qui
 ### Télécomande avec retour haptic par commande FOC (2024)
 ![tele](https://github.com/user-attachments/assets/009c7620-aedf-4889-8c37-63b88f042115)
 
-Vidéo du prototype [https://www.tiktok.com/@username/video/1234567890](https://www.tiktok.com/@username/video/1234567890](https://www.tiktok.com/@tuday.e/video/7330250666809625888?_r=1&_t=8pWzxgU6bFx))
+[Vidéo du prototype](https://www.tiktok.com/@username/video/1234567890](https://www.tiktok.com/@tuday.e/video/7330250666809625888?_r=1&_t=8pWzxgU6bFx))
 
 
 ### Volant à Retour de Force pour SimRacing (2023)
