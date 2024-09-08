@@ -80,6 +80,7 @@ Rendu du prototype CAD sous fusion 360 et prototype imprimé (SLA, FDM), Usiné 
 
 - Conception et réalisation d'un slider motorisé pour appareil photo
 - Compétences mises en œuvre : Impression 3D (SLA, FDM), électronique (Conception de PCB avec EAGLE)
+[![Vidéo YouTube](https://img.youtube.com/vi/VjHMk_zaOus/maxresdefault.jpg)](https://www.youtube.com/watch?v=VjHMk_zaOus)
 
 ## Centres d'Intérêt
 
