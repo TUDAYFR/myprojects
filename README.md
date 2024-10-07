@@ -4,7 +4,7 @@ Bienvenue ! Je suis passionné par la mécatronique, la robotique et tout ce qui
 
 ## Éducation
 
-- **École d'Ingénieurs en Mécatronique et Robotique**
+- **École d'Ingénieurs**
   - École Nationale Supérieure de Mécanique et des Microtechniques (ENSMM), Besançon
   - _2022 - En cours_
 
@@ -49,7 +49,7 @@ Ce petit prototype avait pour but de me familiariser avec la commande FOC d'un m
 
 ### Volant à Retour de Force pour SimRacing (2023)
 
-Ce prototype a pour objectif de concurrencer les volants à retour de force (direct drive) de type Fanatec, tout en offrant une alternative à coût réduit (En comptant uniquement les pièces).
+Prototype de volants à retour de force (direct drive), tout en offrant une alternative à coût réduit.
 
 ![Eclatee_Treated (1)](https://github.com/TUDAYFR/myprojects/assets/104011562/a770d250-96ec-4b04-9a5e-59e364538b97)
 
